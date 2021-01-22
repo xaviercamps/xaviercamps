@@ -1,6 +1,6 @@
 ### Hi there, I'm Xavier Camps 👋
 
-<img align='right' src="./Assets/profile.png" width="230">
+<img align='right' src="https://ibb.co/d0BC4th" width="230">
 
 [![Linkedin: xaviercampsnovi](https://img.shields.io/badge/-xaviercampsnovi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xaviercampsnovi/)](https://www.linkedin.com/in/xaviercampsnovi/)
 [![GitHub xaviercamps](https://img.shields.io/github/followers/xaviercamps?label=follow&style=social)](https://github.com/xaviercamps)
