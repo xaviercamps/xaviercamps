@@ -6,14 +6,14 @@
 ```swift
 struct ImDeveloper {
     let name: String
-    let born: Int
+    let birthdate: Int
     let role: String
     let location: String
     let knowleadges: [String]
     
     func simpleDescription() -> String {
         let description = """
-            My name is \(name). I was borned at \(born) in \(location).
+            My name is \(name). I was born in \(location) in \(birthdate).
             I'm a \(role) and my knowleadges developing apps are:
             \(knowleadges).
         """
@@ -22,7 +22,7 @@ struct ImDeveloper {
 }
 
 let xavier = ImDeveloper(name: "Xavier",
-                         born: 1988,
+                         birthdate: 1988,
                          role: "iOS Developer",
                          location: "Barcelona",
                          knowleadges: ["Swift, Objective-C, UIKit, SwiftUI, Combine"])
