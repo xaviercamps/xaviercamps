@@ -14,7 +14,7 @@ struct ImDeveloper {
     func simpleDescription() -> String {
         let description = """
             My name is \(name). I was born in \(location) in \(birthdate).
-            I'm an \(role) and my knowleadges developing apps are:
+            I'm an \(role) and my knowleadge is:
             \(knowleadges).
         """
         return description
