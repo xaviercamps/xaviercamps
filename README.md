@@ -23,7 +23,11 @@ struct ImDeveloper {
     }
 }
 
-let xavier = ImDeveloper(name: "Xavier", born: 1988, role: "iOS Developer", location: "Barcelona", knowleadges: ["Swift, Objective-C, UIKit, SwiftUI, Combine"])
+let xavier = ImDeveloper(name: "Xavier",
+                         born: 1988,
+                         role: "iOS Developer",
+                         location: "Barcelona",
+                         knowleadges: ["Swift, Objective-C, UIKit, SwiftUI, Combine"])
 
 print(xavier.simpleDescription())
 ```
